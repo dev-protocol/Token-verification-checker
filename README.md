@@ -8,7 +8,7 @@ Discord: discord.gg/nexustools
 Checks mail verification 
 Checks phone verification 
 100 Checks per min
-Saves Them in outpu folder
+Saves Them in output folder
 ```
 ## SKID
 ```
